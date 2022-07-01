@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    
+    margin: 120px;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+#butn {
+    display: flex;
+    margin: 22px 0px;
+    /* border: 2px solid black; */
+    justify-content: center;
+    align-items: center;
+
+}
+
+#dateid {
+    margin-top: 41px;
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: center;
+    align-items: center;
+
+}
+
+#alarmbtn {
+    padding: 0px 54px;
+    font-size: 24px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+#cunt {
+    display: flex;
+    
+    /* border: 2px solid black; */
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    /* z-index: -1; */
+}
